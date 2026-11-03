@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Agent",
+    "email": "agent@example.com",
+    "password_hash": "$2y$12$Wtf70aCQCR2lWn6QdTQe.uDjCKPMRV9fakce5d.Bcq4KNpOU1bGyu",
+    "role": "agent"
+  },
+  {
+    "id": 2,
+    "name": "Morgan Manager",
+    "email": "manager@example.com",
+    "password_hash": "$2y$12$3nagxj9uyKoS6BHMnlV85OJxd4K1ZOoc5AZzwedioWFi2TQDR5gyu",
+    "role": "manager"
+  }
+]

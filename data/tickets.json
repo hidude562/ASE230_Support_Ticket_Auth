@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Jordan Lee",
+    "email": "jordan.lee@example.com",
+    "category": "technical",
+    "description": "The dashboard does not load after I sign in.",
+    "status": "Open",
+    "attachment": null,
+    "created_by": 1
+  },
+  {
+    "id": 2,
+    "name": "Maya Patel",
+    "email": "maya.patel@example.com",
+    "category": "billing",
+    "description": "I was charged twice for the same service.",
+    "status": "In Progress",
+    "attachment": null,
+    "created_by": 2
+  },
+  {
+    "id": 3,
+    "name": "Chris Morgan",
+    "email": "chris.morgan@example.com",
+    "category": "account",
+    "description": "I cannot reset my password using the reset link.",
+    "status": "Resolved",
+    "attachment": null,
+    "created_by": 1
+  }
+]
